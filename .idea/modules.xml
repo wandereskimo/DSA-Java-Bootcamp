@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/02-first-java.iml" filepath="$PROJECT_DIR$/.idea/02-first-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/_02-first-java/_02-first-java.iml" filepath="$PROJECT_DIR$/_02-first-java/_02-first-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_03-condition-and-loops/_03-condition-and-loops.iml" filepath="$PROJECT_DIR$/_03-condition-and-loops/_03-condition-and-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_04-functions/_04-functions.iml" filepath="$PROJECT_DIR$/_04-functions/_04-functions.iml" />
     </modules>
   </component>
 </project>
